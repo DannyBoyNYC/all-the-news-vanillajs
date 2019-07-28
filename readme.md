@@ -1,0 +1,1 @@
+# This is a repository to accompany the lesson Dom Scripting.
